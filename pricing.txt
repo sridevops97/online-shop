@@ -1,1 +1,1 @@
-Default discount: 5%
+Default discount: 15%
