@@ -1,2 +1,1 @@
-Online shop application
-Version 1
+Login feature added
